@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../LINQTut01/LINQTut01.csproj" Id="5a339f82-cf28-49be-a70b-3064ac160e53" />
+  <Project Path="../LINQTut02/LINQTut02.csproj" Id="b08bda2a-b6ae-4e8e-bfd4-77742b009cc8" />
+  <Project Path="FunctionalProgramming.csproj" />
+</Solution>
