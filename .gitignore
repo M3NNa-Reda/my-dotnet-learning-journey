@@ -55,3 +55,14 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+# =========================================================================
+# IDE and Editor Specific Files (Visual Studio & VS Code)
+# =========================================================================
+# Visual Studio cache and settings
+.vs/
+**/[Cc]onfig/
+**/.vs/
+
+# VS Code settings and workspace files
+.vscode/
+*.code-workspace
