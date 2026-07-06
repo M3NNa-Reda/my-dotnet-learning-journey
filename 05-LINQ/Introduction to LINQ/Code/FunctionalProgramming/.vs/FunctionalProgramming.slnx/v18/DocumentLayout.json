@@ -3,10 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\FunctionalProgramming\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A339F82-CF28-49BE-A70B-3064AC160E53}|..\\LINQTut01\\LINQTut01.csproj|c:\\users\\user\\source\\repos\\linqtut01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B08BDA2A-B6AE-4E8E-BFD4-77742B009CC8}|..\\LINQTut02\\LINQTut02.csproj|c:\\users\\user\\source\\repos\\linqtut02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B08BDA2A-B6AE-4E8E-BFD4-77742B009CC8}|..\\LINQTut02\\LINQTut02.csproj|c:\\users\\user\\source\\repos\\linqtut02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A339F82-CF28-49BE-A70B-3064AC160E53}|..\\LINQTut01\\LINQTut01.csproj|c:\\users\\user\\source\\repos\\linqtut01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E883DB15-AAED-0A58-DD47-9EBF481967E7}|FunctionalProgramming.csproj|c:\\users\\user\\source\\repos\\functionalprogramming\\extensionfunctional01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -40,7 +40,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -52,26 +52,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LINQTut02\\Program.cs",
               "RelativeDocumentMoniker": "..\\LINQTut02\\Program.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\LINQTut02\\Program.cs",
               "RelativeToolTip": "..\\LINQTut02\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAUwDYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwDEAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-05T17:37:32.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LINQTut01\\Program.cs",
               "RelativeDocumentMoniker": "..\\LINQTut01\\Program.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\LINQTut01\\Program.cs",
               "RelativeToolTip": "..\\LINQTut01\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-05T17:24:44.254Z",
               "EditorCaption": ""
@@ -86,8 +86,7 @@
               "RelativeToolTip": "ExtensionFunctional02.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T21:38:35.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-04T21:38:35.747Z"
             },
             {
               "$type": "Document",
@@ -99,8 +98,7 @@
               "RelativeToolTip": "ExtensionFunctional01.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-04T16:57:13.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-04T16:57:13.956Z"
             },
             {
               "$type": "Document",
@@ -112,8 +110,7 @@
               "RelativeToolTip": "ExtnensionProcedural.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAowDwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T14:31:48.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-03T14:31:48.385Z"
             },
             {
               "$type": "Document",
@@ -125,8 +122,7 @@
               "RelativeToolTip": "Repository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T14:22:14.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-03T14:22:14.2Z"
             },
             {
               "$type": "Document",
@@ -150,8 +146,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAD8AAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T13:49:14.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-03T13:49:14.423Z"
             }
           ]
         }
