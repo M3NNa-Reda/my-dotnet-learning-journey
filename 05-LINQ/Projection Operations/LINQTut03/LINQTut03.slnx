@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="LINQTut03.Select/LINQTut03.Select.csproj" />
+  <Project Path="LINQTut03.SelectMany/LINQTut03.SelectMany.csproj" />
+  <Project Path="LINQTut03.Shared/LINQTut03.Shared.csproj" />
+  <Project Path="LINQTut03.Zip/LINQTut03.Zip.csproj" />
+</Solution>
