@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="LINQTut04.OrderBy.Comparer/LINQTut04.OrderBy.Comparer.csproj" />
+  <Project Path="LINQTut04.OrderBy/LINQTut04.OrderBy.csproj" />
+  <Project Path="LINQTut04.Reverse/LINQTut04.Reverse.csproj" />
+  <Project Path="LINQTut04.Shared/LINQTut04.Shared.csproj" />
+  <Project Path="LINQTut04.ThenBy/LINQTut04.ThenBy.csproj" />
+</Solution>
