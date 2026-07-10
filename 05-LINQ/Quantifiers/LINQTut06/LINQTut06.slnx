@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LINQTut06.Quantifier/LINQTut06.Quantifier.csproj" />
+  <Project Path="LINQTut06.Shared/LINQTut06.Shared.csproj" />
+</Solution>
