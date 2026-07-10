@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LINQTut06.Shared/LINQTut07.Shared.csproj" />
+  <Project Path="LINQTut07.GroupingData/LINQTut07.GroupingData.csproj" Id="2e52e12c-79d4-4f73-ab4c-a8bf2b1660ff" />
+</Solution>
