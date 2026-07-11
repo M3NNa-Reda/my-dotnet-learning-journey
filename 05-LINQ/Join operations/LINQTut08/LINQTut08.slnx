@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LINQTut08.JoinOperations/LINQTut08.JoinOperations.csproj" />
+  <Project Path="LINQTut08.Shared/LINQTut08.Shared.csproj" />
+</Solution>
