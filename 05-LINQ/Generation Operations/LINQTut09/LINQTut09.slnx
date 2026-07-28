@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GenerationOperations/GenerationOperations.csproj" />
+  <Project Path="Shared/Shared.csproj" />
+</Solution>
