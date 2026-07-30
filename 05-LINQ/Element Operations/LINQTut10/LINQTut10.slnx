@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ElementOperations/ElementOperations.csproj" Id="4e6a78ee-10ca-4a47-bc56-01ee353b7a3d" />
+  <Project Path="Shared/Shared.csproj" />
+</Solution>
