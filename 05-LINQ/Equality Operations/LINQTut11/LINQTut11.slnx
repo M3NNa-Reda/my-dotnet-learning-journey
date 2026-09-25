@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EqualityOperations/EqualityOperations.csproj" Id="bd368bcd-6106-48bd-8c16-7e7f8b0cf2ec" />
+  <Project Path="Shared/Shared.csproj" />
+</Solution>
